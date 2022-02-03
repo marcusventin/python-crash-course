@@ -5,3 +5,6 @@ This repo contains a series of introductory Python exercises drawn from Eric Mat
 
 #### Chapter 1
 Hello World
+
+#### Chapter 2
+Variables and Simple Data Types
