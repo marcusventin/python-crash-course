@@ -8,3 +8,6 @@ Hello World
 
 #### Chapter 2
 Variables and Simple Data Types
+
+#### Chapter 3
+Introducing Lists
