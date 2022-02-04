@@ -21,20 +21,20 @@ languages.remove("c sharp")
 print(f"\n{languages}")
 
 # Organising elements
-print(f"\nUsing .reverse():")
+print("\nUsing .reverse():")
 print(languages)
 languages.reverse()
 print(languages)
 languages.reverse()
 
-print(f"\nUsing sorted():")
+print("\nUsing sorted():")
 print(languages)
 print(sorted(languages))
 print(languages)
 
-print(f"\nUsing .sort():")
+print("\nUsing .sort():")
 languages.sort()
 print(languages)
 
-print(f"\nUsing len():")
+print("\nUsing len():")
 print(len(languages))
