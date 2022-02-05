@@ -17,3 +17,6 @@ Working with Lists
 
 #### Chapter 5
 if Statements
+
+#### Chapter 6
+Dictionaries
