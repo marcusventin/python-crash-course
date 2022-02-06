@@ -20,3 +20,6 @@ if Statements
 
 #### Chapter 6
 Dictionaries
+
+#### Chapter 7
+User Input and while Loops
