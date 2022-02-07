@@ -23,3 +23,6 @@ Dictionaries
 
 #### Chapter 7
 User Input and while Loops
+
+#### Chapter 8
+Functions
