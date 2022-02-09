@@ -26,3 +26,6 @@ User Input and while Loops
 
 #### Chapter 8
 Functions
+
+#### Chapter 9
+Classes
