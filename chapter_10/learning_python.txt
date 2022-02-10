@@ -1,0 +1,5 @@
+In Python you can use list comprehension to manipulate the contents of a list.
+
+In Python you can use inheritance to streamline your classes.
+
+In Python you can use dictionaries to store key-value pairs.
