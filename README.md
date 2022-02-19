@@ -32,3 +32,6 @@ Classes
 
 #### Chapter 10
 Files and Exceptions
+
+#### Chapters 15-17
+Data Visualization
